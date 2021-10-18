@@ -6,6 +6,7 @@ Repository for lectures on informatics for 2021
 
 ## Tools
 
-ToDo Need to define
+VSCode (Можно использовать любой другой редактор, но тогда настраивать придется самостоятельно)
+
 
 
