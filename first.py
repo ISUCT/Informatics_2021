@@ -1,3 +1,5 @@
+import function
+
 bool_sample = True
 age = 5
 if age <= 7:
