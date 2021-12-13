@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Config(root)",
+			"path": "."
+		}
+	],
+	"settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/__pycache__/": true,			
+            "**/.mypy_cache/": true
+        },
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4,
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-azuretools.vscode-docker",
+            "mhutchie.git-graph",
+            "ms-python.python"
+        ]
+    }
+}
