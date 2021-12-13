@@ -16,7 +16,6 @@
     },
     "extensions": {
         "recommendations": [
-            "ms-azuretools.vscode-docker",
             "mhutchie.git-graph",
             "ms-python.python"
         ]
