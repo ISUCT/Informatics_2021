@@ -1,3 +1,7 @@
+import function
+
+function.table(5,6)
+
 bool_sample = True
 age = 5
 if age <= 7:
